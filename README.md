@@ -1,2 +1,2 @@
 # DAND_Project1
-Explore Weather Trends
+Udacity Data Analyst Nanodegree Project 1: Explore Weather Trends
